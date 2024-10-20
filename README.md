@@ -6,7 +6,12 @@
 <pre>
 +++++++++++++++++++++++++++++++++++++++
 +++++++++++++*+++++++++++++++++++++++++
-++++++++++*#+%+##++++++++++++++++++++++
+++++++++++*#+%+##++++++++++++++++++++++ 
+<p align="center">
+  I’m a Belgian student in the final year of my Bachelor's degree in Software <br>
+  Engineering, specializing in backend development using <strong>Java</strong> and <strong>Spring Boot</strong>,
+  <br> with hands-on experience in front-end development using <strong>JavaScript</strong>. I’m fluent in French, Dutch, and English.
+</p>
 +++++++*@%#%@%@@%@%%%++++++++++++++++++
 ++++++=#@%@@@@@@@%#%@%%%%++++++++++++++
 +++++=%%%%%%%%%%%%%%%%%%%*+++++++++++++
@@ -25,13 +30,14 @@
 %#===========+%%%%++++*--+%@%@%%@@@@%@%
 #============+%#****=---*%@%%%%@@@@@@@@
 ===========%@*=#*#==----%%%%%%@@@@@@@%@
+
+
+
 </pre>
   </div>
 </div>
 
-<p align="center">
-  I’m a Belgian student in the final year of my Bachelor's degree in Software Engineering, specializing in backend development using <strong>Java</strong> and <strong>Spring Boot</strong>, with hands-on experience in front-end development using <strong>JavaScript</strong>. I’m fluent in French, Dutch, and English.
-</p>
+
 
 
 ---
