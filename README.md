@@ -53,6 +53,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Icon" width="40" height="40">
     <!-- Nest.js Icon -->
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" alt="Nest.js Icon" width="40" height="40">
+     <img src="https://camo.githubusercontent.com/d97b910f0af180dee48d2d9c9084c0ef12f3f999a41c8141e8a9daf38e376292/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3531322f6e6f64656a732e706e67" alt="Node.js Icon" width="40" height="40">
   </p>
 </div>
 
@@ -71,7 +72,7 @@
 
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/antoine-drionduchapois" target="_blank">
+  <a href="https://www.linkedin.com/in/antoine-drion-du-chapois/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
