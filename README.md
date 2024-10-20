@@ -63,6 +63,7 @@
 ---
 
 <div style="border: 2px solid #e74c3c; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <div align="center">
   <pre>
  _____         _          ____  _             _    
 |_   _|__  ___| |__      / ___|| |_ __ _  ___| | __
@@ -70,6 +71,7 @@
   | |  __/ (__| | | |     ___) | || (_| | (__|   < 
   |_|\___|\___|_| |_|    |____/ \__\__,_|\___|_|\_\
   </pre>
+  </div>
   <p align="center">
     <!-- Java Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="40" height="40">
