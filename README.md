@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Business Engineering student passionate about technology, coding, and eco-friendly solutions 🌱</strong>
+  I’m a Belgian student in the final year of my Bachelor's degree in Software Engineering, specializing in backend development using <strong>Java</strong> and <strong>Spring Boot</strong>, with hands-on experience in front-end development using <strong>JavaScript</strong>. I’m fluent in French, Dutch, and English.
 </p>
 
 <div align="center">
@@ -15,11 +15,12 @@
 ---
 
 <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <h2 align="center">🔭 Current Projects</h2>
+  <h2 align="center">🔭 Some of my Projects</h2>
   <ul>
-    <li>🛠 Building a SaaS platform for internship management using <strong>Java Jakarta EE</strong>, <strong>GitLab</strong>, and <strong>Jenkins</strong>.</li>
-    <li>☕ Developing a <strong>State Design Pattern</strong> coffee machine project in <strong>Java</strong>.</li>
-    <li>💻 Working on a <strong>MongoDB</strong> project with local database connections, integrating <strong>React</strong> with <strong>Electron.js</strong> for a group showcase.</li>
+    <li>🛠 Building a SaaS platform using <strong>Java Jakarta EE</strong>, <strong>PostgreSQL</strong>, GitLab, and Jenkins for CI/CD processes.</li>
+    <li>☕ Developing a <strong>Spring Boot microservice</strong> to explore scalable backend solutions.</li>
+    <li>💻 Building an internship management platform with advanced database management using <strong>Procedural PostgreSQL</strong>.</li>
+    <li>💸 Developed an e-commerce website using <strong>JavaScript</strong>, <strong>Express.js</strong>, and <strong>SQLite</strong>, with <strong>Stripe API</strong> for payment processing.</li>
   </ul>
 </div>
 
@@ -28,20 +29,10 @@
 <div style="border: 2px solid #e74c3c; border-radius: 10px; padding: 20px; margin: 20px 0;">
   <h2 align="center">🌱 What I’m Learning</h2>
   <ul>
-    <li>Mastering the <strong>Builder pattern</strong> for efficient object creation.</li>
-    <li>Refining DevOps skills with <strong>Test-Driven Development</strong> and <strong>Git branching strategies</strong>.</li>
-    <li>Designing with <strong>Material UI</strong> for improved UI/UX in <strong>Electron.js</strong> apps.</li>
-  </ul>
-</div>
-
----
-
-<div style="border: 2px solid #f1c40f; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <h2 align="center">💬 Ask me about</h2>
-  <ul>
-    <li>🔄 How biomimicry can revolutionize <strong>recycling processes</strong>.</li>
-    <li>🌍 Expanding businesses globally using the <strong>CAGE framework</strong>.</li>
-    <li>⚙️ Combining coding with business engineering for real-world projects.</li>
+    <li>Mastering <strong>Spring Boot</strong> for scalable microservices and enterprise solutions.</li>
+    <li>Exploring <strong>DevOps practices</strong> with <strong>CI/CD tools</strong> such as GitLab and Jenkins.</li>
+    <li>Enhancing front-end development skills with <strong>React</strong> and <strong>Material UI</strong>.</li>
+    <li>Implementing <strong>TDD methodologies</strong> and automated testing to ensure robust code quality.</li>
   </ul>
 </div>
 
@@ -50,8 +41,7 @@
 <div style="border: 2px solid #9b59b6; border-radius: 10px; padding: 20px; margin: 20px 0;">
   <h2 align="center">👯 I’m looking to collaborate on</h2>
   <ul>
-    <li>Projects involving <strong>eco-design</strong> or <strong>sustainable technology solutions</strong>.</li>
-    <li>Anything that combines tech and environmental innovation 🌍.</li>
+    <li>Projects involving <strong>SaaS platform engineering</strong> with backend and frontend solutions.</li>
   </ul>
 </div>
 
@@ -61,9 +51,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/antoine-drionduchapois" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:ant-drion@businessengineering.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
 
@@ -75,47 +62,6 @@
 </p>
 
 <p align="center">
-  I love giving unwanted objects a second life! My dream is to create a space where recycling meets creativity, blending nature with technology 🌿✨.
+  I'm a huge <strong>MMA</strong> fan 🥊
 </p>
 
-<!-- Custom Styles to enhance the profile -->
-<style>
-  h1, h2 {
-    font-family: 'Verdana', sans-serif;
-    color: #34495e;
-  }
-
-  p, ul {
-    font-family: 'Arial', sans-serif;
-    font-size: 16px;
-    color: #2c3e50;
-    line-height: 1.8;
-  }
-
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-
-  ul li::before {
-    content: "🌟 ";
-    font-size: 1.2em;
-  }
-
-  div {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-
-  img {
-    border-radius: 10px;
-    margin-top: 10px;
-  }
-
-  a {
-    text-decoration: none;
-  }
-
-  a img {
-    margin-right: 20px;
-  }
-</style>
