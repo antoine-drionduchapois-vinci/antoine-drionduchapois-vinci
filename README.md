@@ -52,7 +52,7 @@
     <!-- MySQL Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Icon" width="40" height="40">
     <!-- Nest.js Icon -->
-    <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/nestjs/nestjs-plain.svg" alt="Nest.js Icon" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" alt="Nest.js Icon" width="40" height="40">
   </p>
 </div>
 
