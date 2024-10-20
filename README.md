@@ -8,12 +8,6 @@
   I’m a Belgian student in the final year of my Bachelor's degree in Software Engineering, specializing in backend development using <strong>Java</strong> and <strong>Spring Boot</strong>, with hands-on experience in front-end development using <strong>JavaScript</strong>. I’m fluent in French, Dutch, and English.
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link-here" alt="Profile image" width="200" height="200" style="border-radius: 50%; border: 3px solid #3498db;">
-</div>
-
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoine-drionduchapois-vinci&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)
-
 
 ---
 
