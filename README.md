@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Waving Hand GIF" width="120">
 </p>
-<p>
+<pre>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++%+*++++++++++++++++++++++++++++++++++++++++++
@@ -38,7 +38,7 @@
 =+================++@=%#*####=-------#%%%%%%%%%@@@@@@@@@@@@@
 ===============+=%@@@@@#***===------%%%%%%%%%%@@@@@@@@@%@%@%
 
-</p>
+</pre>
 
 <p align="center">
   I’m a Belgian student in the final year of my Bachelor's degree in Software Engineering, specializing in backend development using <strong>Java</strong> and <strong>Spring Boot</strong>, with hands-on experience in front-end development using <strong>JavaScript</strong>. I’m fluent in French, Dutch, and English.
