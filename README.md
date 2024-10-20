@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Antoine Drion du Chapois!</h1>
-
 
 <table>
   <tr>
@@ -31,8 +29,9 @@
     </td>
     <!-- Paragraph -->
     <td>
+    <h1 align="center">Hi there 👋, I'm Antoine Drion du Chapois!</h1>
       <p align="left">
-        I’m a Belgian student in the final year of my Bachelor's degree in Software Engineering, specializing in backend development using 
+        👋 Hi! I’m a Belgian student in his final year of a Bachelor's degree in Software Engineering, specializing in backend development using 
         <strong>Java</strong> and <strong>Spring Boot</strong>, with hands-on experience in front-end development using <strong>JavaScript</strong>. 
         I’m fluent in French, Dutch, and English.
       </p>
