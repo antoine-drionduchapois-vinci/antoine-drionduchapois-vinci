@@ -40,7 +40,7 @@
     <!-- C# Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Icon" width="40" height="40">
     <!-- Spring Boot Icon -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot Icon" width="40" height="40">
+    <img src="https://camo.githubusercontent.com/9d67318aed1c579b61b3cd88cedd1d801578c49c7671ef43c91b8a5e1a8aacfc/68747470733a2f2f696d616765732e636f6e74656e74737461636b2e696f2f76332f6173736574732f626c74333937393062363333656530643561372f626c74346637373964316234666434393663352f3634376132663432643838626231303061353231363630312f737072696e672e77656270" alt="Spring Boot Icon" width="40" height="40">
     <!-- Flutter Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Icon" width="40" height="40">
     <!-- React Icon -->
