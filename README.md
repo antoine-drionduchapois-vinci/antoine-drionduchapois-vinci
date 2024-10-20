@@ -42,19 +42,15 @@
 ---
 
 <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  
- <div align="center">
-  <pre>
-
+  <h2 align="center">🔭 Some of my Projects</h2>
+ <pre>
     __  ___          ____               _           __      
    /  |/  /_  __    / __ \_________    (_)__  _____/ /______
   / /|_/ / / / /   / /_/ / ___/ __ \  / / _ \/ ___/ __/ ___/
  / /  / / /_/ /   / ____/ /  / /_/ / / /  __/ /__/ /_(__  ) 
 /_/  /_/\__, /   /_/   /_/   \____/_/ /\___/\___/\__/____/  
        /____/                    /___/                      
-
 </pre>
- </div>
   <ul>
     <li>🛠 Building a SaaS platform using <strong>Java Jakarta EE</strong>, <strong>PostgreSQL</strong>, GitLab, and Jenkins for CI/CD processes.</li>
     <li>☕ Developing a <strong>Spring Boot microservice</strong> to explore scalable backend solutions.</li>
