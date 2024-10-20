@@ -103,18 +103,15 @@
 
 
 
----
 
-<div style="border: 2px solid #9b59b6; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <h2 align="center">👯 I’m looking to collaborate on</h2>
-  <ul>
-    <li>Projects involving <strong>SaaS platform engineering</strong> with backend and frontend solutions.</li>
-  </ul>
-</div>
-
----
-
-<h2 align="center">📫 How to reach me:</h2>
+<div align="center">
+<pre>
+ ____            _             _                       
+ / ___|___  _ __ | |_ __ _  ___| |_      _ __ ___   ___ 
+| |   / _ \| '_ \| __/ _` |/ __| __|    | '_ ` _ \ / _ \
+| |__| (_) | | | | || (_| | (__| |_     | | | | | |  __/
+ \____\___/|_| |_|\__\__,_|\___|\__|    |_| |_| |_|\___|
+</pre>
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-drion-du-chapois/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
