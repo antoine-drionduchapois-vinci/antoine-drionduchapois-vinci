@@ -29,7 +29,19 @@
     </td>
     <!-- Paragraph -->
     <td>
-    <h1 align="center">Hi there 👋, I'm Antoine Drion du Chapois!</h1>
+    <div align="center">
+    <pre>
+ _   _      _ _             ___ _                                  
+| | | | ___| | | ___       |_ _( )_ __ ___                         
+| |_| |/ _ \ | |/ _ \       | ||/| '_ ` _ \                        
+|  _  |  __/ | | (_) |      | |  | | | | | |                       
+|_| |_|\___|_|_|\___( ) _  |___| |_| |_| |_|__       _             
+   / \   _ __ | |_ _|/ (_)_ __   ___     |  _ \ _ __(_) ___  _ __  
+  / _ \ | '_ \| __/ _ \| | '_ \ / _ \    | | | | '__| |/ _ \| '_ \ 
+ / ___ \| | | | || (_) | | | | |  __/    | |_| | |  | | (_) | | | |
+/_/   \_\_| |_|\__\___/|_|_| |_|\___|    |____/|_|  |_|\___/|_| |_|
+    </pre>
+    </div>
       <p align="left">
         I’m a Belgian student in his final year of a Bachelor's degree in Software Engineering, specializing in backend development using 
         <strong>Java</strong> and <strong>Spring Boot</strong>, with hands-on experience in front-end development using <strong>JavaScript</strong>. 
