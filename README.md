@@ -27,7 +27,7 @@
 ---
 
 <div style="border: 2px solid #e74c3c; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <h2 align="center">Tech Stack</h2>
+  <h2 align="center">Currently Learning</h2>
   <p align="center">
     <!-- Java Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="40" height="40">
