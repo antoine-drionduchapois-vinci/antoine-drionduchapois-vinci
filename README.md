@@ -27,14 +27,22 @@
 ---
 
 <div style="border: 2px solid #e74c3c; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <h2 align="center">🌱 What I’m Learning</h2>
-  <ul>
-    <li>Mastering <strong>Spring Boot</strong> for scalable microservices and enterprise solutions.</li>
-    <li>Exploring <strong>DevOps practices</strong> with <strong>CI/CD tools</strong> such as GitLab and Jenkins.</li>
-    <li>Enhancing front-end development skills with <strong>React</strong> and <strong>Material UI</strong>.</li>
-    <li>Implementing <strong>TDD methodologies</strong> and automated testing to ensure robust code quality.</li>
-  </ul>
+  <h2 align="center">Currently Learning</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js Badge">
+  </p>
 </div>
+
 
 ---
 
@@ -54,14 +62,5 @@
   </a>
 </p>
 
----
 
-<h2 align="center">⚡ Fun Fact:</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKRAjGeY5xywOJG/giphy.gif" alt="Recycling GIF" width="200">
-</p>
-
-<p align="center">
-  I'm a huge <strong>MMA</strong> fan 🥊
-</p>
 
