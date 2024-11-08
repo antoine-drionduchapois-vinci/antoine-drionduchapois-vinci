@@ -69,6 +69,7 @@
     <li>☕ Developing a <strong>Spring Boot microservice</strong> to explore scalable backend solutions.</li>
     <li>💻 Building an internship management platform with advanced database management using <strong>Procedural PostgreSQL</strong>.</li>
     <li>💸 Developed an e-commerce website using <strong>JavaScript</strong>, <strong>Express.js</strong>, and <strong>SQLite</strong>, with <strong>Stripe API</strong> for payment processing.</li>
+    <li>🌍 Builded a GeoGuesser clone using <strong>Angular</strong> and <strong>FireBase</strong>.</li>
   </ul>
 </div>
 
