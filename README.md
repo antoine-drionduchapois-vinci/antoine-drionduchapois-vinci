@@ -50,7 +50,9 @@
     </td>
   </tr>
 </table>
-![Visit my server](https://2806-2a02-1811-b626-cd00-1d9e-cce4-52e-614d.ngrok-free.app/ping)
+<div>
+  ![Invisible Ping](https://2806-2a02-1811-b626-cd00-1d9e-cce4-52e-614d.ngrok-free.app/ping)
+</div>
 ---
 
 <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin: 20px 0;">
