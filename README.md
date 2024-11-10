@@ -51,8 +51,6 @@
   </tr>
 </table>
 <img src="https://2806-2a02-1811-b626-cd00-1d9e-cce4-52e-614d.ngrok-free.app/ping" width="1" height="1" alt="" />
-
-
 ---
 
 <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; margin: 20px 0;">
